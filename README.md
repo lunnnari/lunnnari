@@ -1,6 +1,6 @@
 # Olá! Eu sou o Wilton Rezende
 
-- 💻 Programador Front-End 
+- 💻 Programador iniciante
 - 🎓 Análise e Desenvolvimento de Sistemas - UniCesumar
 - 🎓 Programação Fullstack no Senai
 - 📚 Apaixonado por aprender e resolver problemas
